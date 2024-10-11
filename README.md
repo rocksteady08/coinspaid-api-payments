@@ -23,6 +23,7 @@ Before running this script, you need to have:
    
 `SECRET_TOKEN=your_api_secret_key`
 `PUBLIC_TOKEN=your_api_public_key`
+
 3. Replace `your_api_secret_key` and `your_api_public_key` with the appropriate values from your Coinspaid account.
 
 # CSV File Format
