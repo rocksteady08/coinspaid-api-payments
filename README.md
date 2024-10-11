@@ -22,7 +22,7 @@ Before running this script, you need to have:
 1. Create a `.env` file in the root directory of your project and add your API tokens as follows:
 `SECRET_TOKEN=your_api_secret_key`
 `PUBLIC_TOKEN=your_api_public_key`
-2. Replace `your_api_secret_key` and `your_api_public_key` with the appropriate values from your Coinspaid account.
+3. Replace `your_api_secret_key` and `your_api_public_key` with the appropriate values from your Coinspaid account.
 
 # CSV File Format
 The script expects a CSV file named `data.csv` in the following format:
